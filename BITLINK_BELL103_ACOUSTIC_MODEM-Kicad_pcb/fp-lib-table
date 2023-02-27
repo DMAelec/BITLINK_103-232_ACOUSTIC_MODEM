@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name BUTTON_SW_CK_E_ROCKER)(type KiCad)(uri ${KIPRJMOD}/FOOTPRINTS/BUTTON_SW_CK_E_ROCKER.pretty)(options "")(descr ""))
+  (lib (name "BITLINK LOGO")(type KiCad)(uri ${KIPRJMOD}/FOOTPRINTS/LOGO.pretty)(options "")(descr ""))
+)
